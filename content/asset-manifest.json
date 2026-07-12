@@ -1,0 +1,24 @@
+{
+  "bucket": "site-assets",
+  "projectId": "35a34f15-4693-4f5d-b899-e261fbce3d61",
+  "ref": "",
+  "images": {
+    "section-showcase-2": "https://images.unsplash.com/photo-1663271784319-ecc97ce8d4aa?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxfHxtb2Rlcm4lMjBhaXJwb3J0JTIwdGVybWluYWwlMjB3YXJtJTIwZXZlbmluZ3xlbnwxfDB8fHwxNzgzODIzOTU5fDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-showcase-3": "https://images.unsplash.com/photo-1762632173931-01d5c623afc5?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwxMHx8RXVyb3BlYW4lMjBjaXR5JTIwcm9vZnRvcHMlMjBkdXNrJTIwdHJhdmVsfGVufDF8MHx8fDE3ODM4MjM5NTl8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-cta": "https://images.unsplash.com/photo-1561692521-c4812ff7e89b?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw3fHxhaXJwbGFuZSUyMHdpbmclMjBzdW5zZXQlMjB3YXJtJTIwZHVzayUyMHZpZXd8ZW58MXwwfHx8MTc4MzgyMzk1OXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-about-hero": "https://images.unsplash.com/photo-1629249329970-24f248351612?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw5fHxwcmVtaXVtJTIwdHJhdmVsJTIwY29uY2llcmdlJTIwbG91bmdlJTIwZHVza3xlbnwxfDB8fHwxNzgzODIzOTU5fDA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-showcase-1": "https://images.unsplash.com/photo-1650509570477-bb1da37b08b0?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwyfHxsdXh1cnklMjB0cm9waWNhbCUyMHJlc29ydCUyMGR1c2slMjBhZXJpYWx8ZW58MXwwfHx8MTc4MzgyMzk1OXww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "section-showcase-4": "https://images.unsplash.com/photo-1764917438537-dc363d7ccb84?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw5fHxsdXh1cnklMjBjYXIlMjBhaXJwb3J0JTIwYXJyaXZhbCUyMG5pZ2h0fGVufDF8MHx8fDE3ODM4MjM5NjB8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-visa-assistance": "https://images.unsplash.com/photo-1585832770485-e68a5dbfad52?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHwzfHxwYXNzcG9ydCUyMHRyYXZlbCUyMGRvY3VtZW50cyUyMHdhcm0lMjBkZXNrfGVufDF8MHx8fDE3ODM4MjM5NjB8MA&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-holiday-packages": "https://images.unsplash.com/photo-1582533401893-cf3acb4680e8?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw2fHx0cm9waWNhbCUyMGJlYWNoJTIwcmVzb3J0JTIwZHVzayUyMHByZW1pdW18ZW58MXwwfHx8MTc4MzgyMzk2MHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "service-flight-bookings": "https://images.unsplash.com/photo-1706921255467-4236b197b530?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw4fHxwcmVtaXVtJTIwYnVzaW5lc3MlMjBjbGFzcyUyMGNhYmluJTIwaW50ZXJpb3J8ZW58MXwwfHx8MTc4MzgyMzk2MHww&ixlib=rb-4.1.0&w=1920&h=1080&fit=crop&q=80&auto=format",
+    "og-image": "https://images.unsplash.com/photo-1687885461404-5ab0c1aa4ad9?ixid=M3w5MjY4OTB8MHwxfHNlYXJjaHw1fHxsdXh1cnklMjB0cmF2ZWwlMjBhaXJwbGFuZSUyMHN1bnNldCUyMGRlc3RpbmF0aW9ufGVufDF8MHx8fDE3ODM4MjM5NjF8MA&ixlib=rb-4.1.0&w=1200&h=630&fit=crop&q=80&auto=format",
+    "scene-1-end": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/35a34f15-4693-4f5d-b899-e261fbce3d61/images/scene-1-end.png",
+    "scene-1-start": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/35a34f15-4693-4f5d-b899-e261fbce3d61/images/scene-1-start.png"
+  },
+  "videos": {
+    "scene-1": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/35a34f15-4693-4f5d-b899-e261fbce3d61/videos/scene-1.mp4"
+  },
+  "frames": {},
+  "updatedAt": "2026-07-12T02:56:43.481Z"
+}

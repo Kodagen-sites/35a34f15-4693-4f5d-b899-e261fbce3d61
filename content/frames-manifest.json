@@ -1,0 +1,9 @@
+{
+  "frameCount": 192,
+  "frameDir": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/35a34f15-4693-4f5d-b899-e261fbce3d61/frames/scene-1",
+  "frameUrlTemplate": "https://kodagen-site-assets.s3.eu-west-1.amazonaws.com/site-assets/35a34f15-4693-4f5d-b899-e261fbce3d61/frames/scene-1/frame-{NNNN}.jpg",
+  "fps": 24,
+  "width": 1280,
+  "sceneId": "scene-1",
+  "storage": "s3"
+}

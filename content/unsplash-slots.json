@@ -1,0 +1,13 @@
+[
+  { "slot": "section-about-hero", "keyword": "premium travel concierge lounge dusk", "orientation": "landscape" },
+  { "slot": "section-cta", "keyword": "airplane wing sunset warm dusk view", "orientation": "landscape" },
+  { "slot": "section-showcase-1", "keyword": "luxury tropical resort dusk aerial", "orientation": "landscape" },
+  { "slot": "section-showcase-2", "keyword": "modern airport terminal warm evening", "orientation": "landscape" },
+  { "slot": "section-showcase-3", "keyword": "European city rooftops dusk travel", "orientation": "landscape" },
+  { "slot": "section-showcase-4", "keyword": "luxury car airport arrival night", "orientation": "landscape" },
+  { "slot": "service-flight-bookings", "keyword": "premium business class cabin interior", "orientation": "landscape" },
+  { "slot": "service-visa-assistance", "keyword": "passport travel documents warm desk", "orientation": "landscape" },
+  { "slot": "service-holiday-packages", "keyword": "tropical beach resort dusk premium", "orientation": "landscape" },
+  { "slot": "service-airport-transfers", "keyword": "luxury sedan airport terminal night", "orientation": "landscape" },
+  { "slot": "og-image", "keyword": "luxury travel airplane sunset destination", "orientation": "landscape", "w": 1200, "h": 630 }
+]
